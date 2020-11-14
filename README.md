@@ -1,7 +1,7 @@
 # Instapy Bot
 Get curated content delivered to your instagram feed. Follow [`_tech_masala_`](https://www.instagram.com/_tech_masala_/).
 This bot will post 1 article every hour. 
-## Get Started
+## Initial Setup
 Install requirements
 - `virtualenv env && source env/bin/activate`
 - `pip3 install -r requirements.txt`
