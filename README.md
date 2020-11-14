@@ -1,5 +1,5 @@
 # Instapy Bot
-Get curated content delivered to your instagram feed. Follow [`_tech_masala_`](https://www.instagram.com/_tech_masala_/).
+Get curated content delivered to your instagram feed. Follow [`news_burner`](https://www.instagram.com/news_burner/).
 This bot will post 1 article every hour. 
 ## Initial Setup
 Install requirements
